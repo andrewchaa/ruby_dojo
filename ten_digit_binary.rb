@@ -6,3 +6,4 @@ max = "1100000000".to_i(2)
 end
 
 puts filtered
+
